@@ -14,6 +14,8 @@ npm i -g vue-native
 ```
 To get Started
 ```
+npm i
+
 npm start
 or
 expo start
