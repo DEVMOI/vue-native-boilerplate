@@ -1,17 +1,21 @@
 <template>
-  <view class="container">
-    <text class="text-color-primary">My Vue Native App</text>
-    </view>
+  <HelloWorld :Heading='Heading'/>
 </template>
+ <script>
+ import HelloWorld from './src/components/HelloWorld';
+ export default {
+   name: 'App',
+   components:{
+     HelloWorld
+   },
+   data(){
+     return{
+       Heading:'A Vue Native Boilerplate'
+     };
+   }
+ }
+ </script>
  
 <style>
-.container {
-  background-color: white;
-  align-items: center;
-  justify-content: center;
-  flex: 1;
-}
-.text-color-primary {
-  color: blue;
-}
+
 </style>
