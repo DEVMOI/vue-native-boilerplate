@@ -1,7 +1,7 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
-.idea/*
+.idea/
 .idea/misc.xml
 yarn.lock
-.idea/misc.xml
+gen/

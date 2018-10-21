@@ -11,7 +11,6 @@ Global Dependencies
 ```
 npm i -g expo-cli
 npm i -g vue-native
-
 ```
 To get Started
 ```
