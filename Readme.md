@@ -6,6 +6,8 @@ A Simple Template used to get started with Mobile Development using VueJS.
 Built with [Vue-Natvie.io](vue-native.io) on top of [React-Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/).
 So if you like using Expo you are in Luck.
 
+[Download](https://github.com/NodeGG/vue-native-boilerplate/releases)
+
 ## Local Development
 Global Dependencies
 ```
