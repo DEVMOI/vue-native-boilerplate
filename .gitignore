@@ -5,3 +5,4 @@ npm-debug.*
 .idea/misc.xml
 yarn.lock
 gen/
+package-lock.json
