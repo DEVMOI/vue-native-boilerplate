@@ -7,7 +7,7 @@
 </template>
 <script>
 export default {
-    name:'HelloWorld',
+    name:'Greeting',
     props:{
         Heading:String
     }

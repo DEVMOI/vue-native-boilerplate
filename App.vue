@@ -1,12 +1,12 @@
 <template>
-  <HelloWorld :Heading='Heading'/>
+  <Greeting :Heading='Heading'/>
 </template>
  <script>
- import HelloWorld from './src/components/HelloWorld';
+ import Greeting from './src/components/Greeting';
  export default {
    name: 'App',
    components:{
-     HelloWorld
+     Greeting
    },
    data(){
      return{
@@ -16,6 +16,4 @@
  }
  </script>
  
-<style>
-
-</style>
+<style></style>
