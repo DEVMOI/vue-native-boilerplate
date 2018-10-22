@@ -16,6 +16,8 @@
     "vue-native-helper": "0.0.9"
   },
   "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-google": "^0.11.0",
     "vue-native-scripts": "0.0.14"
   }
 }
